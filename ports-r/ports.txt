@@ -1,0 +1,7 @@
+vulnweb.com:80
+www.vulnweb.com:80
+testhtml5.vulnweb.com:80
+testphp.vulnweb.com:80
+rest.vulnweb.com:80
+testasp.vulnweb.com:80
+testaspnet.vulnweb.com:80
