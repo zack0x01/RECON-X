@@ -146,15 +146,6 @@ You are responsible for complying with all applicable laws.
 
 ---
 
-## ⭐ Credits
-
-Built with ❤️ for the bug bounty & security community.
-
-If you like this project — **star it** ⭐ and make it deadlier 😈
-
-```
-
----
 
 If you want next:
 - 🧠 **Screenshots section**
